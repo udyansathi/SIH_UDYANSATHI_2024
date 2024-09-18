@@ -1,9 +1,10 @@
-# Machine Learning & IoT-Based-Complete-Air-pollution-monitoring-and-forecasting-System.
+# Real-Time AQI Monitoring Through AQI Sensors Mounted on Public Transport
+.
 
 
-[Link To Live Project](http://airpollution.epizy.com/newpage1.php)
+[Link To Live Project](https://udyaansaathi.onrender.com/)
 ***
-IOT Based Air Pollution Monitoring &amp; Forecasting System
+IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization for analysis and prediction.
 ## Modules
 1. [Pollution Sensing Device](#IoT)
 2. [AQI Monitoring Website](#website)
