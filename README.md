@@ -8,11 +8,11 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 ## Modules
 1. [Pollution Sensing Device](#IoT)
 2. [AQI Monitoring Website](#website)
-3. [Forecasting using Various ML Techniques](#ml)
+3. [Prediction and Analysis using Various ML Techniques](#ml)
 
 ## Functionalities
 ***
-![Image text](Screenshots/Website/.jpg)
+![Image text](Screenshots/Website/Screenshot_main_website.png)
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
