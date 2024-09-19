@@ -15,7 +15,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
-![Device Picture](Screenshots/IoT-Device/device1.jpg)
+![Device Picture](Device.png)
 
 1. Node MCU Board
 2. MQ 135 Gas sensor
@@ -43,35 +43,35 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 #### Details
 1. **Map** 
     * For watching the continuous report of all the Sensors. 
-      ![Image text](Map.png)
+      ![Map Screenshot](Map.png)
 2. **Air Quality Index Data** 
     * Watching Monthly report of current month AQI.
     * Watching Hourly report of same day.
-      ![Image text](AQI_Data.png)
+      ![Air Quality Index Data](AQI_Data.png)
 3. **Major Air Pollutants** 
     * Seeing next 7 day AQI forecast.
     * Seeing next 24 hours forecast.
-      ![Image text](Major_Air_Pollutants.png)
+      ![Major Air Pollutants](Major_Air_Pollutants.png)
    
 4. **Health Advice** 
     * Graphical repersantion of historical data based on selected Month or Day. 
-      ![Image text](Health_Advice.png)
+      ![Health Advice](Health_Advice.png)
 5. **Most Polluted Cities**
     * Provides alert on website whenever AQI level crosses the limit.
     * Provides consequences and precaution about the AQI levels.
-      ![Image text](Most_Polluted_Cities.png)
+      ![Most Polluted Cities](Most_Polluted_Cities.png)
 6. **Historic Air Quality Data**
     * dkfnonferjong
     * rkgerkgmetkgm
-      ![Image text](Historic_AQI.png)
+      ![Historic Air Quality Data](Historic_AQI.png)
 7. **Least Polluted Cities**
     * dkfnonferjong
     * rkgerkgmetkgm
-      ![Image text](Least_polluted.png)
+      ![Least Polluted Cities](Least_polluted.png)
 8. **AQI HeatMap**
     * dkfnonferjong
     * rkgerkgmetkgm
-      ![Image text](AQI_Heatmap.png)
+      ![AQI HeatMap](AQI_Heatmap.png)
  
 <a name="ml"></a>
 ### Forecasting AQI
