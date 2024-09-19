@@ -52,7 +52,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 3. **Major Air Pollutants** 
     * Seeing next 7 day AQI forecast.
     * Seeing next 24 hours forecast.
-      ![Image text](Major_Air_Pollutants.jpg)
+      ![Image text](Major_Air_Pollutants.png)
    
 4. **Health Advice** 
     * Graphical repersantion of historical data based on selected Month or Day. 
