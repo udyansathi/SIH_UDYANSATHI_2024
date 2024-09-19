@@ -12,7 +12,6 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 
 ## Functionalities
 ***
-![Website Screenshot](Website.png)
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
@@ -56,7 +55,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
    
 4. **Health Advice** 
     * Graphical repersantion of historical data based on selected Month or Day. 
-      ![Image text](Health_Advice.jpg)
+      ![Image text](Health_Advice.png)
 5. **Most Polluted Cities**
     * Provides alert on website whenever AQI level crosses the limit.
     * Provides consequences and precaution about the AQI levels.
