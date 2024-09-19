@@ -16,7 +16,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
-![Image text](Screenshots/IoT-Device/device1.jpg)
+![Device Picture](Screenshots/IoT-Device/device1.jpg)
 
 1. Node MCU Board
 2. MQ 135 Gas sensor
@@ -31,33 +31,48 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 <a name="website"></a>
 ### AQI Monitoring Website
 ***
-![Image text](Screenshots/Website/websiteFront.jpg)
-1. Dashboard
-2. Monthly and Daily AQI Monitoring
-3. Daily and Hourly AQI Forecasting 
-4. Pollution history
-5. AQI Alerting and Precaution
+![Website Screenshot](Website.png)
+1. Map
+2. Air Quality Index Data
+3. Major Air Pollutants
+4. Health Advice
+5. Most Polluted Cities
+6. Historic Air Quality Data
+7. Least Polluted Cities
+8. AQI HeatMap
 
 #### Details
-1. **Dashboard** 
+1. **Map** 
     * For watching the continuous report of all the Sensors. 
-      ![Image text](Screenshots/Website/aqiDashboard.jpg)
-2. **Monthly and Daily AQI Monitoring** 
+      ![Image text](Map.jpg)
+2. **Air Quality Index Data** 
     * Watching Monthly report of current month AQI.
     * Watching Hourly report of same day.
-      ![Image text](Screenshots/Website/aqiGraph.jpg)
-3. **Daily and Hourly AQI Forecasting** 
+      ![Image text](AQI_Data.jpg)
+3. **Major Air Pollutants** 
     * Seeing next 7 day AQI forecast.
     * Seeing next 24 hours forecast.
-      ![Image text](Screenshots/Website/tempGraph.jpg)
+      ![Image text](Major_Air_Pollutants.jpg)
    
-4. **Pollution history** 
+4. **Health Advice** 
     * Graphical repersantion of historical data based on selected Month or Day. 
-      ![Image text](Screenshots/Website/monthlyData.jpg)
-5. **AQI Alerting and Precaution**
+      ![Image text](Health_Advice.jpg)
+5. **Most Polluted Cities**
     * Provides alert on website whenever AQI level crosses the limit.
     * Provides consequences and precaution about the AQI levels.
-      ![Image text](Screenshots/Website/webPage2.jpg)
+      ![Image text](Most_Polluted_Cities.jpg)
+6. **Historic Air Quality Data**
+    * dkfnonferjong
+    * rkgerkgmetkgm
+      ![Image text](Historic_AQI.jpg)
+7. **Least Polluted Cities**
+    * dkfnonferjong
+    * rkgerkgmetkgm
+      ![Image text](Least_polluted.jpg)
+8. **AQI HeatMap**
+    * dkfnonferjong
+    * rkgerkgmetkgm
+      ![Image text](AQI_Heatmap.jpg)
  
 <a name="ml"></a>
 ### Forecasting AQI
