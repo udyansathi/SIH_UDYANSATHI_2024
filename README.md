@@ -42,35 +42,31 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 
 #### Details
 1. **Map** 
-    * For watching the continuous report of all the Sensors. 
+    * For watching the continuous report of all the Sensors at various part of the cities. 
       ![Map Screenshot](Map.png)
 2. **Air Quality Index Data** 
-    * Watching Monthly report of current month AQI.
-    * Watching Hourly report of same day.
+    * Watching real time report of same day.
+    * real time data updation 
       ![Air Quality Index Data](AQI_Data.png)
 3. **Major Air Pollutants** 
-    * Seeing next 7 day AQI forecast.
-    * Seeing next 24 hours forecast.
+    * Display of Pollutants in the Air.
+    * Concentration of pollutants.
       ![Major Air Pollutants](Major_Air_Pollutants.png)
    
 4. **Health Advice** 
-    * Graphical repersantion of historical data based on selected Month or Day. 
+    * Based on ML models Personalized Health Advice is displayed on the website. 
       ![Health Advice](Health_Advice.png)
 5. **Most Polluted Cities**
-    * Provides alert on website whenever AQI level crosses the limit.
-    * Provides consequences and precaution about the AQI levels.
+    * Display the Data regarding Most Polluted cities and area.
       ![Most Polluted Cities](Most_Polluted_Cities.png)
 6. **Historic Air Quality Data**
-    * dkfnonferjong
-    * rkgerkgmetkgm
+    * Display the History of AQI data of the city.
       ![Historic Air Quality Data](Historic_AQI.png)
 7. **Least Polluted Cities**
-    * dkfnonferjong
-    * rkgerkgmetkgm
+    * Display the Data of Least Polluted Cities.
       ![Least Polluted Cities](Least_polluted.png)
 8. **AQI HeatMap**
-    * dkfnonferjong
-    * rkgerkgmetkgm
+    * Display The Heatmap of the City
       ![AQI HeatMap](AQI_Heatmap.png)
  
 <a name="ml"></a>
@@ -85,46 +81,44 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 #### Details
 1. **Collecting Dataset** 
     * Collecting Dataset from the website database of atlest 6 months. 
-      ![Image text](Screenshots/Forecasting/dataset.jpg)
+
       
 2. **Analysing Dataset** 
     * Exploratory data analysis on the dataset.
     * Wrangling and Preparing the Dataset.
     * Time-windowing the Dataset for time series data forecasting. 
-      ![Image text](Screenshots/Forecasting/analyseDataset.jpg)
+
       
 3. **Training Models using ML** 
     * Creating various Machine Learning models 
     * Applying various techniques to fit and forecast the data.
     * Comparing Various Designed Models. 
-      ![Image text](Screenshots/Forecasting/trainingModel.jpg)
+   
       
 4. **Forecasting Time-Series data**
     * Finally using the best model to forecast AQI. 
-      ![Image text](Screenshots/Forecasting/forecastAqi.jpg)
+ 
 
 ## Technologies
 ***
 ### A list of technologies used within the project:
 **For Setting Up Iot Device**
-* [Arduino](https://example.com): Version 1.3 
-* [C](https://example.com): Version 1.3 
-* [C++](https://example.com): Version 1.3 
+* [Arduino]
+* [C]
+* [C++]
 
 
 
 **For Designing Website**
-* [PHP](https://example.com): Version 1.3 
-* [Javascript](https://example.com): Version 2.34
-* [CSS](https://example.com): Version 1234
-* [BootsTrap](https://example.com): Version 1234
-* [MySQL](https://example.com): Version 1234
-* [phpMyAdmin](https://example.com): Version 1234
-* [Rest API](https://example.com): Version 12.3 
+* [Javascript]
+* [CSS]
+* [BootsTrap]
+* [MongoDB]
+* [Rest API]
 
 
 **For Forecasting**
-* [Python](https://example.com): Version 12.3 
-* [Machine Learning](https://example.com): Version 12.3 
-* [Deep Learning](https://example.com): Version 12.3 
-* [Anaconda](https://example.com): Version 12.3 
+* [Python](https://www.python.org/): Version 12.3 
+* [Machine Learning]
+* [Deep Learning](https://www.deeplearning.ai/): Version 12.3 
+ 
