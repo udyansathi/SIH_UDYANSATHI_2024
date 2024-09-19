@@ -18,35 +18,15 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 ### IOT based Air Pollution Sensing Device
 ![Image text](Screenshots/IoT-Device/device1.jpg)
 
-1. Arduino (Mega 2560)
-2. Pollution Sensors
-3. Paticulate Matter Sensor
-4. BME 280 Sensor
-5. Geological Sensor
+1. Node MCU Board
+2. MQ 135 Gas sensor
+3. DHT 11 temperature sensor
+4. GPS Module
+5. I2C Converter
 6. Wifi MCU (ESP8266)
-7. Alert bell
+7. LCD Display
 8. Arduino Setup Libraries
 
-#### Details
-1. **Arduino (Mega 2560)** 
-    * ATmega2560 based microcontroller for connecting, processing and operating with differrent sensors. 
-    * Processing the inputs from sensors and provide internal plus external communication.
-2. **Pollution Sensors** 
-    * Various sensors for sensing Pollution.
-3. **Paticulate Matter Sensor**
-    * For sensing suspended particulate matters in air i.e. (PM2.5 and PM10).
-4. **BME 280 Sensor** 
-    * For sensing Temprature, Pressure, Humidity and Altitude.
-5. **Geological Sensor**  
-    * GPS sensor for sensing the location of the device.
-6. **Wifi MCU (ESP8266)** 
-    * Making connection with internet.
-    * Communicating with website.
-    * Sending ensors data to the website.
-7. **Alert Bell** 
-    * For making Alerts Higher AQI levels.
-8. **Arduino Setup Libraries**
-    * Libraries forsettingv up sensors with arduino.
  
 <a name="website"></a>
 ### AQI Monitoring Website
