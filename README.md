@@ -59,7 +59,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 5. **Most Polluted Cities**
     * Provides alert on website whenever AQI level crosses the limit.
     * Provides consequences and precaution about the AQI levels.
-      ![Image text](Most_Polluted_Cities.jpg)
+      ![Image text](Most_Polluted_Cities.png)
 6. **Historic Air Quality Data**
     * dkfnonferjong
     * rkgerkgmetkgm
