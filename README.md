@@ -12,7 +12,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 
 ## Functionalities
 ***
-![Website Screenshot](Wensite.png)
+![Website Screenshot](Website.png)
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
