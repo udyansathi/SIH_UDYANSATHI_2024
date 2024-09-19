@@ -67,7 +67,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 7. **Least Polluted Cities**
     * dkfnonferjong
     * rkgerkgmetkgm
-      ![Image text](Least_polluted.jpg)
+      ![Image text](Least_polluted.png)
 8. **AQI HeatMap**
     * dkfnonferjong
     * rkgerkgmetkgm
