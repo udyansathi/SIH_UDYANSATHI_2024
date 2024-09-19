@@ -44,7 +44,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 #### Details
 1. **Map** 
     * For watching the continuous report of all the Sensors. 
-      ![Image text](Map.jpg)
+      ![Image text](Map.png)
 2. **Air Quality Index Data** 
     * Watching Monthly report of current month AQI.
     * Watching Hourly report of same day.
