@@ -71,7 +71,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 8. **AQI HeatMap**
     * dkfnonferjong
     * rkgerkgmetkgm
-      ![Image text](AQI_Heatmap.jpg)
+      ![Image text](AQI_Heatmap.png)
  
 <a name="ml"></a>
 ### Forecasting AQI
