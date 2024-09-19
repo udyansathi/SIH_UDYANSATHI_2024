@@ -63,7 +63,7 @@ IOT Based Air Quality Index Monitoring &amp; utilizing ML and Data Visualization
 6. **Historic Air Quality Data**
     * dkfnonferjong
     * rkgerkgmetkgm
-      ![Image text](Historic_AQI.jpg)
+      ![Image text](Historic_AQI.png)
 7. **Least Polluted Cities**
     * dkfnonferjong
     * rkgerkgmetkgm
